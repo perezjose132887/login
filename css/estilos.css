@@ -1,4 +1,23 @@
 .registrarme{
     text-decoration: none;
     color: black;
+    display: block;
+    text-align: center;
+}
+.container{
+    background-color: #0E4C75;
+    margin: 30px;
+}
+
+form{
+    background-color: #3282B5;
+    padding: 50px;
+}
+
+.registrarme:hover{
+    color: white;
+    font-size: 18px;
+}
+label{
+    color: white;
 }
